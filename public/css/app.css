@@ -8870,3 +8870,12 @@ a.text-dark:hover {
   visibility: hidden !important;
 }
 
+body {
+  font-family: "Vazir", tahoma, sans-serif;
+  font-size: 14px;
+}
+
+button {
+  cursor: pointer;
+}
+

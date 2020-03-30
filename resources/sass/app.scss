@@ -9,3 +9,14 @@
 
 // RTL Bootstrap
 @import "~rtl-bootstrap/scss/bootstrap";
+
+
+body{
+    font-family: "Vazir",tahoma,sans-serif;
+    font-size: 14px;
+}
+
+// Enable Pointer Cursor For Buttons
+button {
+    cursor: pointer;
+}
